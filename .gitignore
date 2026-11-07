@@ -11,3 +11,7 @@ out
 *.log
 dist/
 *.tsbuildinfo
+
+# local documents and media (moved here during consolidation; not published)
+docs/_local/
+media/
